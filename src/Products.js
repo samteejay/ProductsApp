@@ -3,7 +3,7 @@ import Filters from './Filters.js';
 import ProductForm from './ProductForm.js';
 import ProductTable from './ProductTable.js';
 
-
+// Products 
 var PRODUCTS = {
     '1': { id: 1, category: 'Musical Instruments', price: '$459.99', stocked: true, name: 'Clarinet' },
     '2': { id: 2, category: 'Musical Instruments', price: '$5,000', stocked: true, name: 'Cello' },
